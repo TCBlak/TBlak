@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TCBlak 
+- 👋 Hi, I’m @TBlak 
 - 👀 I’m interested in ... becoming a programmer. I enjoy games and hope to work on VTT software.
 - 🌱 I’m currently learning ... programming at Tarrant County College in Fort Worth, Tx. 
 - 💞️ I’m looking to collaborate on ... interesting projects at this point as well as school work.
